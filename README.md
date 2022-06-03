@@ -1,5 +1,5 @@
 # JRU-JavaSyntax<br>
-01. Java Syntax - Module one in JavaRush University.<br>
+## 01. Java Syntax - Module one in JavaRush University.<br>
 
 **Course program**<br>
 Training on the course consists of 5 modules + practical module (performing a group project):<br>
