@@ -17,3 +17,5 @@ Training on the course consists of 5 modules + practical module (performing a gr
 **05. Final project for the entire course.**<br>
 
 
+
+
