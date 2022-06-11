@@ -19,9 +19,3 @@ Training on the course consists of 5 modules + practical module (performing a gr
 **05. Spring + Spring Boot.** IoC, DI. Spring. Components. Beans. Spring modules, Spring MVC. Designing the REST API. App controller-service-dao. Spring ORM. @Transaction. Spring Test. AOP (logging). Spring Security. Spring Boot. Spring JPA.<br>
 
 **05. Final project for the entire course.**<br>
-
-
-
-
-
-
