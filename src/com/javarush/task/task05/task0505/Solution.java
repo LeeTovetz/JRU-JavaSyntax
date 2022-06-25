@@ -12,17 +12,17 @@ public class Solution {
         int n = sc.nextInt();
 
         if (n > 0) {
-            int[] array = new int[n];
-            for (int i = 0; i < array.length; i++) {
-                array[i] = sc.nextInt();
+            int[] data = new int[n];
+            for (int i = 0; i < data.length; i++) {
+                data[i] = sc.nextInt();
             }
             if (n % 2 == 0) {
-                for (int i = array.length - 1; i >= 0; i--) {
-                    System.out.println(array[i]);
+                for (int i = data.length - 1; i >= 0; i--) {
+                    System.out.println(data[i]);
                 }
             } else {
-                for (int i = 0; i < array.length; i++) {
-                    System.out.println(array[i]);
+                for (int i = 0; i < data.length; i++) {
+                    System.out.println(data[i]);
                 }
             }
         }
