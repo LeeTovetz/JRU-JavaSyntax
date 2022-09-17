@@ -8,6 +8,11 @@ Training on the course consists of 5 modules + practical module (performing a gr
 
 **01. Java Syntax. Dedicated to the study of commands, data types, familiarity with the development environment IntelliJ IDEA, loops and conditional operators, arrays and functions, objects, classes; work with strings. Students are also introduced to the basics of OOP, lists and generics, collections, exceptions, I/O streams, working with time and date. The module concludes with an introduction to Git and the writing of a final project.**<br>
 
+**CryptAnalyzer**<br>
+This is the final project of the first "Java Syntax" module at JavaRush University.<br>
+Created by Serge Kravchenko (group of students "November").<br>
+https://github.com/LeeTovetz/ua.com.javarush.november.Kravchenko.CryptAnalyzer
+
 ## 
 
 **02. Java Core.** Deepening into OOP: encapsulation and polymorphism, composition, aggregation and inheritance. Abstract classes. Stream API. Type casting, constructor calls, Object constructor. Recursion, familiarity with strings, inner/nested classes. Serialization. Annotations. Sockets. Final project.<br>
