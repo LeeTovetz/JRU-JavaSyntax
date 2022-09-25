@@ -26,7 +26,3 @@ this is the final project of the first "Java Syntax" module at JavaRush Universi
 **05. Final project for the entire course.**<br>
 
 
-
-
-
-
